@@ -2,8 +2,8 @@
 
 To complete this assignment, edit this README by doing the following, 
 
-- Indicate your first and last name
+- Dmitri Albig
 
-- Share 2 or 3 things about yourself
+- Love coding and robotics engineeering
 
-- Indiate your goal(s) you have for this course
+- Learn lots of java and differen coding techniques
